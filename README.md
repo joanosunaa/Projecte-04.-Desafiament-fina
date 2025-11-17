@@ -39,3 +39,25 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 
 <img width="324" height="284" alt="dhavdhasd" src="https://github.com/user-attachments/assets/86d65c34-d6a7-4625-b618-c47706fc7f9c" />
 
+##  **Tasques
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+##  **Productes
+- []()
+- []()
+- []()
