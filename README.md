@@ -40,21 +40,21 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 <img width="324" height="284" alt="dhavdhasd" src="https://github.com/user-attachments/assets/86d65c34-d6a7-4625-b618-c47706fc7f9c" />
 
 ##  Tasques
-- [Tasca01](/Tasca01/readme.md)
-- [Tasca02](/Tasca02/readme.md)
-- [Tasca03](/Tasca03/readme.md)
-- [Tasca04](/Tasca04/readme.md)
-- [Tasca05](/Tasca05/readme.md)
-- [Tasca06](/Tasca06/readme.md)
-- [Tasca07](/Tasca07/readme.md)
-- [Tasca08](/Tasca08/readme.md)
-- [Tasca09](/Tasca09/readme.md)
-- [Tasca10](/Tasca10/readme.md)
-- [Tasca11](/Tasca11/readme.md)
-- [Tasca12](/Tasca12/readme.md)
-- [Tasca13](/Tasca13/readme.md)
-- [Tasca14](/Tasca14/readme.md)
-- [Tasca15](/Tasca15/readme.md)
+- [Tasca01](Tasca01/readme.md)
+- [Tasca02](Tasca02/readme.md)
+- [Tasca03](Tasca03/readme.md)
+- [Tasca04](Tasca04/readme.md)
+- [Tasca05](Tasca05/readme.md)
+- [Tasca06](Tasca06/readme.md)
+- [Tasca07](Tasca07/readme.md)
+- [Tasca08](Tasca08/readme.md)
+- [Tasca09](Tasca09/readme.md)
+- [Tasca10](Tasca10/readme.md)
+- [Tasca11](Tasca11/readme.md)
+- [Tasca12](Tasca12/readme.md)
+- [Tasca13](Tasca13/readme.md)
+- [Tasca14](Tasca14/readme.md)
+- [Tasca15](Tasca15/readme.md)
 
 
 ##  Productes
