@@ -64,5 +64,3 @@ El document final ha d’incloure:
 
 
 
-> ✨ *Tasca pensada per entendre, dissenyar i justificar una política de còpies de seguretat professional aplicable a un cas real d’empresa.*
-
