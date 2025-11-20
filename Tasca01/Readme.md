@@ -62,6 +62,6 @@ El document final ha d’incloure:
 - **INCIBE:** Guia de còpies de seguretat  
 - **YouTube:** Xataka — *Mètode 3-2-1*  
 
-
+- [Tasca 01](./tasca.md/)
 
 
