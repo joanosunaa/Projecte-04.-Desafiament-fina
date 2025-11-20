@@ -63,4 +63,6 @@ El document final ha d’incloure:
 - **YouTube:** Xataka — *Mètode 3-2-1*  
 
 
+(Tasca)[T01_DRP_còpies de seguretat.md]
+
 
