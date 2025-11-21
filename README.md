@@ -1,43 +1,105 @@
-# Projecte-04.-Desafiament-fina
+EverPia 3 — Sobreviure en una empresa IT
 
-EverPia 3: “Sobreviure en una empresa IT”
-Després de setmanes convivint amb el ritme imprevisible d’una consultora tecnològica, arriba al darrer capítol de la trilogia EverPia. És un moment que combina entusiasme, maduresa i una sensació molt real: aquesta etapa s’acaba, i comença alguna cosa nova.
-A les consultores, la trajectòria professional segueix un patró gairebé universal: 
-Qui entra com a júnior ho fa sense saber gaire què s’hi trobarà, però en surt transformat.
+Projecte Final del Període de Pràctiques Internes – Trilogia EverPia
 
-<img width="420" height="421" alt="descripcion" src="https://github.com/user-attachments/assets/73e28b29-0105-417f-b28c-f8b82650a840" />
+Aquest repositori recull el conjunt de tasques, proves i documentació generades durant l’última etapa del període de pràctiques a EverPia, una empresa que ha servit com a ecosistema realista per experimentar el ritme, els reptes i l’aprenentatge accelerat d’una consultora tecnològica.
 
 
-De sobte et veus apagant incendis, assumint tasques que no surten al contracte, donant suport a companys amb més anys que tu, resolent problemes d’origen desconegut i aprenent a una velocitat que no apareix a cap manual.
-Aquesta intensitat et fa créixer.
-Aquesta pressió et defineix.
-Aquesta experiència accelerada et converteix en professional.
-I un dia, sense adonar-te’n, descobreixes que ja no ets el mateix júnior que va entrar per la porta amb por i il·lusió. Ara tens eines, criteri, documentació pròpia i una manera de mirar els problemes que només es guanya treballant molt i en silenci.
-
-Aquest projecte neix exactament d’aquí: d’aquell moment en què tu —com qualsevol treballador de consultoria— comences a intuir que estàs preparat per fer el salt.
-
-Per deixar de ser la baula més jove de la cadena i començar a dissenyar el seu propi camí.
-Ara ja ho sap: està a punt de sortir d’EverPia.
-I vol fer-ho per la porta gran.
-
-<img width="188" height="254" alt="desc" src="https://github.com/user-attachments/assets/a9537d9c-f753-4e4e-a715-78b4611c69a5" />
+<img width="450" height="350" alt="P4 index" src="https://github.com/user-attachments/assets/684f3e00-d53f-48d5-8faa-905b49b640b8" />
 
 
-Aquest projecte és la seva oportunitat per demostrar qui és després de tot el que ha viscut: què ha après, com treballa, com documenta, com investiga, com proposa solucions i com afronta reptes complexos sense perdre el nord.
-No és un conjunt de tasques. És la seva carta de presentació professional.
+Després de mesos convivint amb incidents, pressió, responsabilitats diverses i creixement professional intens, aquest projecte representa l’últim salt abans de sortir d’EverPia —i fer-ho per la porta gran.
+
+## **Objectiu del projecte**
+
+Integrar, en un sol entorn professional, tots els coneixements tècnics, organitzatius i creatius adquirits durant el trimestre:
+
+Treballar com un júnior IT en una consultora real.
+
+Donar resposta a encàrrecs reals de sistemes, seguretat i serveis de xarxa.
+
+Documentar amb nivell professional.
+
+Planificar i executar tasques amb autonomia progressiva.
+
+Crear una carpeta de treball que funcioni com a carta de presentació professional.
+
+## **Continguts treballats**
+
+Aquest projecte combina:
+
+Bloc Tècnic
+
+Creació i restauració d’imatges del sistema amb Rescuezilla.
+
+Estratègies de còpies de seguretat per equips Windows.
+
+Desplegament d’un servidor NFS (amb i sense LDAP).
+
+Configuració d’un servidor d’impressió CUPS.
+
+Implementació i comparativa de solucions d’accés remot.
+
+Bloc Creatiu i Organitzatiu
+
+Disseny d’un prototip corporatiu + ecommerce inicial amb Figma.
+
+Ús inicial de Git amb repositoris locals i commits estructurats.
+
+Documentació tècnica acurada i professional.
+
+Organització del flux de treball amb Kanban.
+
+Integració de criteris de sostenibilitat i economia circular en l’àmbit tecnològic.
 
 
-Ja saps que et trobes a les últimes setmanes a EverPia. I precisament per això vols acabar per la porta gran: demostrant que domina allò que fa uns mesos li semblava impossible, validant la seva capacitat de treball en equip i executant tasques que requereixen una mirada madura i professional. Aquest projecte no és només un conjunt d’exercicis: és la seva carta de presentació abans de començar a caminar amb més autonomia, confiança i criteri propi.
+<img width="450" height="350" alt="P4 index1" src="https://github.com/user-attachments/assets/11c93699-24cc-43f8-b123-2ddc15e854ed" />
 
-<img width="442" height="273" alt="dlashdad" src="https://github.com/user-attachments/assets/667663cd-e7aa-4758-b69f-8384386fb06d" />
 
-Aquest projecte representa la darrera etapa del període de pràctiques internes dels alumnes dins l’empresa EverPia, on han estat treballant en qualitat de junior IT durant tot el trimestre. 
+## **Objectius generals**
 
-<img width="145" height="235" alt="¡sdadadhjad" src="https://github.com/user-attachments/assets/51be2bb9-c739-4236-90a0-8cdd84ca0b79" />
+Integrar coneixements de seguretat, sistemes, xarxes i aplicacions web.
 
-Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ecosistema empresarial d’EverPia: gestió d’emergències, millora de processos, automatització de sistemes, administració de repositoris, implementació de serveis d’accés remot i desplegament de solucions de disseny i comerç electrònic. Aquest projecte vol posar-los en situació d’assumir, amb autonomia progressiva, rols i responsabilitats similars als que trobarien en una empresa tecnològica de mida petita o mitjana.
+Dominar processos de còpia i recuperació del sistema.
 
-<img width="324" height="284" alt="dhavdhasd" src="https://github.com/user-attachments/assets/86d65c34-d6a7-4625-b618-c47706fc7f9c" />
+Desplegar serveis corporatius habituals en entorns empresarials.
+
+Crear prototips digitals funcionals.
+
+Gestionar versions amb Git.
+
+Desenvolupar una mirada sostenible en l’ús de tecnologies.
+
+Planificar tasques amb metodologia Kanban.
+
+Millorar autonomia, comunicació i capacitat de resolució.
+
+  Productes finals inclosos en aquest repositori
+
+✔️ Imatge de restauració funcional + prova documental
+
+✔️ Informe comparatiu de solucions de backup
+
+✔️ Documentació i proves del servidor NFS
+
+✔️ Configuració i validació del servidor CUPS
+
+✔️ Informe d’accés remot amb valoració de solucions
+
+✔️ Prototip Figma corporatiu + ecommerce (enllaç inclòs)
+
+✔️ Repositori Git organitzat amb commits coherents
+
+✔️ Tauler Kanban actualitzat
+
+✔️ Reflexió final sobre sostenibilitat i economia circular
+
+Aquests elements conformen la meva carpeta professional, demostrant el progrés tècnic i personal assolit durant tota l’experiència EverPia.
+
+## **Conclusió**
+
+Aquest projecte no és caos: és experiència accelerada.
+És el reflex d’un júnior IT que comença a caminar amb criteri, autonomia i mirada pròpia—preparat per sortir d’EverPia i afrontar nous reptes professionals.
 
 ##  Tasques
 - [Tasca01](Tasca01)
