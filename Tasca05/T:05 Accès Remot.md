@@ -1,4 +1,5 @@
-T05: Accés Remot. Connexió via SSH (tasca individual)
+## T05: Accés Remot. Connexió via SSH (tasca individual)
+
 Haurem de tenir dues VM, les dues amb interfícies Xarxa NAT i Host-Only. Per tant amb DHCP activat (true).
 
 A continuació instal·larem ssh
