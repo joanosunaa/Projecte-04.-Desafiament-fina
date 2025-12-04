@@ -62,7 +62,11 @@ Ara configurarem el tunel de SOCKS.
 
 <img width="424" height="562" alt="image" src="https://github.com/user-attachments/assets/a481dca0-83a0-4ad9-97cb-aff6e9b50109" />
 
+
 <img width="383" height="330" alt="image" src="https://github.com/user-attachments/assets/5da6c283-5d97-4717-afad-d6bb3f9f4067" />
+
+
+
 
 <img width="381" height="420" alt="image" src="https://github.com/user-attachments/assets/d0a82796-fb1a-40e8-b01a-44df6aa23408" />
 
