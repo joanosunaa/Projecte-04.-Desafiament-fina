@@ -57,7 +57,7 @@ ssh usuari2@192.168.56.106
 
 <img width="451" height="95" alt="image" src="https://github.com/user-attachments/assets/bee1a2af-7bc9-4623-84c6-24650a772c49" />
 
-Com a resultat tindrem l’acces denegat!!
+Com a resultat tindrem l’acces denegat
 
 Ara tot el trànsit desde el client s’envia com si fos el servidor, pero si volem afegir una redirección dinàmica (dynamic forwarding) ens hem de conectar amb una variació a la comanda.
 
