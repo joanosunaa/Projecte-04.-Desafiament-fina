@@ -4,6 +4,9 @@ Haurem de tenir dues VM, les dues amb interfícies Xarxa NAT i Host-Only. Per ta
 A continuació instal·larem ssh
 
 sudo apt upgrade && sudo apt update && sudo apt install ssh -y
+<img width="846" height="455" alt="image" src="https://github.com/user-attachments/assets/00fd1168-a87a-4072-ab6e-05cb535b3a4e" />
+
+<img width="632" height="204" alt="image" src="https://github.com/user-attachments/assets/be8a6a55-5718-4045-be07-af390e42051f" />
 
 També habilitarem i iniciarem el servei ssh
 
