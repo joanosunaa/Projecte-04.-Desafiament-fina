@@ -85,5 +85,20 @@ Ara veurem com conectar-nos al ssh sense haver de posar la constrasenya. Per fer
 
 <img width="753" height="455" alt="capt1" src="https://github.com/user-attachments/assets/1ab88ca9-2216-4b8e-ad05-1dba2bfd3adf" />
 
+## CREAR LA KEY
+
+<img width="681" height="447" alt="image" src="https://github.com/user-attachments/assets/58db63c2-f05a-4f3f-8a12-bc907acc5eb2" />
+
+
+<img width="562" height="211" alt="image" src="https://github.com/user-attachments/assets/454d9256-d023-4b7c-9455-ce0eebdc70ea" />
+
+<img width="611" height="60" alt="image" src="https://github.com/user-attachments/assets/14e50cde-5f7f-4827-a3d5-958476f4bd32" />
+
+
+
+<img width="397" height="119" alt="image" src="https://github.com/user-attachments/assets/766354ed-5897-40c6-b941-5126045ffdc8" />
+
+
+
 
 
