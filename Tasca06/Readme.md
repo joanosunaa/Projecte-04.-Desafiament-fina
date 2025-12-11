@@ -1,6 +1,6 @@
 ## T06: Accés Remot – Escriptori Remot (RDP) (Tasca individual)
 
-##Breu descripció
+## Breu descripció
 
 En la tasca anterior heu après a administrar servidors i sistemes remots mitjançant SSH, l’eina essencial per a la gestió tècnica via terminal.
 Però, què passa quan treballem amb Windows Server, amb entorn gràfic?
