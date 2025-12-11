@@ -19,3 +19,11 @@ Es recomanable deixar activada la autentificació a nivell de xarxa.
 
 Hem de desactivar el friewall de windows ja que sino no ens deixa conectarnos desde la maquina zorin 
 <img width="785" height="603" alt="image" src="https://github.com/user-attachments/assets/faa10c43-c438-45c0-8482-d9de275642fa" />
+
+Hem d'entrar a usuaris d'escritori remot i hem ficat el nom del nostre pc
+
+<img width="833" height="673" alt="image" src="https://github.com/user-attachments/assets/19e5cc4f-bd5e-4331-87ef-3e61d7ca1a31" />
+
+Seguidament hem d'entrar a la maquina virtual de zorin. Provarem de conectarnos al escriptori remot de Windows per fer-ho hem d’obrir Remmina.
+
+
