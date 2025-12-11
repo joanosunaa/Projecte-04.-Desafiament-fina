@@ -26,4 +26,7 @@ Hem d'entrar a usuaris d'escritori remot i hem ficat el nom del nostre pc
 
 Seguidament hem d'entrar a la maquina virtual de zorin. Provarem de conectarnos al escriptori remot de Windows per fer-ho hem d’obrir Remmina.
 
+<img width="657" height="686" alt="image" src="https://github.com/user-attachments/assets/1f6e08ad-2fd3-43ef-8e76-3d6dc193e28a" />
+
+
 
