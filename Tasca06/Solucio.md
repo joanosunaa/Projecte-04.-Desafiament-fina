@@ -28,5 +28,8 @@ Seguidament hem d'entrar a la maquina virtual de zorin. Provarem de conectarnos 
 
 <img width="657" height="686" alt="image" src="https://github.com/user-attachments/assets/1f6e08ad-2fd3-43ef-8e76-3d6dc193e28a" />
 
+<img width="825" height="328" alt="image" src="https://github.com/user-attachments/assets/8a042fd9-c5f8-4abc-8c4e-2160d295f7cc" />
+
+
 
 
