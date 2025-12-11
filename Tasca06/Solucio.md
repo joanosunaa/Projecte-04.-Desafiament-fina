@@ -32,6 +32,31 @@ Seguidament hem d'entrar a la maquina virtual de zorin. Provarem de conectarnos 
 
 <img width="943" height="995" alt="image" src="https://github.com/user-attachments/assets/357cb09f-faf0-459e-b5dc-6ff439798ca2" />
 
+**Ara activarem el control remot a Zorin, per fer-ho accedim a Configuració → Compartir → Activar "Compartir pantalla" seguidament activem"Control remot" → Definir contrasenya.
+
+Ara definim les dades d'accés segons sigui necessari.**
+
+<img width="962" height="661" alt="image" src="https://github.com/user-attachments/assets/5fb8aba5-4a2a-4a47-bb7c-164aba3558db" />
+
+<img width="691" height="800" alt="image" src="https://github.com/user-attachments/assets/c7758caa-fcd5-44f7-b7cd-c684911ac7a6" />
+
+
+Des de Windows ara podem conectarnos a zorin, amb Escritorio Remoto. Obrirem l’aplicació i introduïrem les dades d’acces.
+
+<img width="404" height="488" alt="image" src="https://github.com/user-attachments/assets/04ca15dc-5dc6-4c2d-8360-8585b198fa8b" />
+
+Equipo: usuari-VirtualBox.local com hem observat abans quan hem configurat l’escritorio remoto a zorin. Usuario: usuari, ja que es el que hem definit a zorin.
+
+<img width="620" height="600" alt="image" src="https://github.com/user-attachments/assets/64996999-e7f1-4141-a604-ff9adcf84226" />
+Introduim la contrasenya que hem definit a ZORINOS 
+
+<img width="398" height="439" alt="image" src="https://github.com/user-attachments/assets/b6d9be67-877d-480f-b511-a39bd0e86f6a" />
+
+
+Acceptem i ja estariem dins
+
+<img width="1920" height="907" alt="image" src="https://github.com/user-attachments/assets/fdd3ea2c-8d16-4823-92ca-31f3116fb928" />
+
 
 
 
