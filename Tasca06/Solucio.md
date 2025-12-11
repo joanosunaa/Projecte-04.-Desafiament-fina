@@ -4,7 +4,8 @@ Per poder fer aquesta pràctica haurem de tenir dues VM una Windows i una Zorin,
 
 Farem comprovacions inicials amb ping entre elles, abans haurem de desactivar el firewall de Windows, sino no funcionarà.
 
-<img width="551" height="187" alt="image" src="https://github.com/user-attachments/assets/43f80030-c7f6-472d-9817-9a47d157ee83" />
+
+<img width="823" height="483" alt="image" src="https://github.com/user-attachments/assets/dd2a748a-b2e7-4e04-b08c-3148bbc1dffa" />
 
 
 
