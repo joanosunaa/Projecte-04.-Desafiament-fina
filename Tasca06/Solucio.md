@@ -10,3 +10,7 @@ Farem comprovacions inicials amb ping entre elles, abans haurem de desactivar el
 
 
 <img width="551" height="493" alt="image" src="https://github.com/user-attachments/assets/ac44d3ab-2ba8-4e78-96cb-421ffd65bfb3" />
+
+Com a primer pas haurem de tenir una màquina virtual amb Windows i activar l’escriptori remot en aquesta. Des de configuració → Sistema → Escritorio remoto
+
+Es recomanable deixar activada la autentificació a nivell de xarxa.
