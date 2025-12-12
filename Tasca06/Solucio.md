@@ -53,7 +53,7 @@ Introduim la contrasenya que hem definit a ZORINOS
 <img width="398" height="439" alt="image" src="https://github.com/user-attachments/assets/b6d9be67-877d-480f-b511-a39bd0e86f6a" />
 
 
-Acceptem i ja estariem dins
+Acceptem i ja estariem conectats
 
 <img width="1920" height="907" alt="image" src="https://github.com/user-attachments/assets/fdd3ea2c-8d16-4823-92ca-31f3116fb928" />
 
