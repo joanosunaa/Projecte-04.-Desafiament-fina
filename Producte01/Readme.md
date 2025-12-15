@@ -1,6 +1,6 @@
 ## CV JOAN OSUNA
 
-# CURRÍCULUM VITAE
+# CURRÍCULUM 
 
 ## Datos personales
 
