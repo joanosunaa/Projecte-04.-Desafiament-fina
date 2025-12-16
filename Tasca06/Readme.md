@@ -67,4 +67,4 @@ Ha de ser clara, ràpida i intuïtiva.
 
 Moodle 0227 Serveis de Xarxa – UD4.AA3 Escriptoris Remots
 
-[SOLUCIÓ](solucio.md)
+[Solucio](solucio.md)
