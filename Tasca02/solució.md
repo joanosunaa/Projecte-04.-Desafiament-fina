@@ -11,7 +11,7 @@ Primer de tot, hem de crear un disc dur de **10 GB**.
 
 <img width="618" height="363" alt="image" src="https://github.com/user-attachments/assets/4afec940-3551-4d64-afb5-ecb8d214d969" />
 
- <img width="618" height="142" alt="image" src="https://github.com/user-attachments/assets/512feeba-1972-4ac9-a2e5-fde85adf46c1" />
+ <img width="515" height="142" alt="image" src="https://github.com/user-attachments/assets/512feeba-1972-4ac9-a2e5-fde85adf46c1" />
 
 **Un cop li donem  add. s’obrirà aquesta** 
 
