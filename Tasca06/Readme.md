@@ -67,8 +67,4 @@ Ha de ser clara, ràpida i intuïtiva.
 
 Moodle 0227 Serveis de Xarxa – UD4.AA3 Escriptoris Remots
 
-Si vols, puc:
-
-✅ Decorar-lo com els altres (amb imatges tipus [capt1](img/capt1.png))
-✅ Convertir-ho tot a format Markdown
-✅ Afegir apartats, icones, esquemes o passos detallats
+[SOLUCIÓ](solucio.md)
