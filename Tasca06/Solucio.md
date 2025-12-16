@@ -32,9 +32,9 @@ Seguidament hem d'entrar a la maquina virtual de zorin. Provarem de conectarnos 
 
 <img width="943" height="995" alt="image" src="https://github.com/user-attachments/assets/357cb09f-faf0-459e-b5dc-6ff439798ca2" />
 
-**Ara activarem el control remot a Zorin, per fer-ho accedim a Configuració → Compartir → Activar "Compartir pantalla" seguidament activem"Control remot" → Definir contrasenya.
+**Ara activarem el control remot a Zorin, per fer-ho accedim a Configuració → Compartir → Activar "Compartir pantalla" seguidament activem"Control remot" → Definir contrasenya.**
 
-Ara definim les dades d'accés segons sigui necessari.**
+**Ara definim les dades d'accés segons sigui necessari.**
 
 <img width="962" height="661" alt="image" src="https://github.com/user-attachments/assets/5fb8aba5-4a2a-4a47-bb7c-164aba3558db" />
 
