@@ -30,7 +30,6 @@ Després d’analitzar diferents opcions, hem decidit utilitzar **Chrome Remote 
 3. Seleccionar l’opció **"Conectarse a otro ordenador"**.
 4. Introduir el **PIN** facilitat pel client per establir la connexió.
 
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/e965dd84-daec-4fc8-90f4-c3c811f06612" />
 
 
 Esperem a que el client confirmi el nostre acces.
@@ -53,6 +52,9 @@ Un cop confirmat ja estariem dins!!
 
 
 5.Esperem que el tènic es conecti i acceptem el seu acces.
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/c4d15669-f400-4e86-9165-0d91e472f58e" />
+
 
 6.El tènic ja esta dins!!!
 
