@@ -48,12 +48,12 @@ Un cop confirmat ja estariem dins!!
 
 4.Veurem un codi, el cual necessità el tènic per conectar-se. *(No patiu, vosaltres haureu de conccedir l'acces més endevant)
 
-<img width="799" " alt="image" src="https://github.com/user-attachments/assets/773a9610-b9e9-47f6-832d-6cf2b8ce107e" />
+<img width="803" height="466" alt="image" src="https://github.com/user-attachments/assets/1582742c-6a2c-4863-af06-1e461aaa2380" />
 
 
 5.Esperem que el tènic es conecti i acceptem el seu acces.
 
-
+![captu](capturacliente.png)
 
 6.El tènic ja esta dins!!!
 
