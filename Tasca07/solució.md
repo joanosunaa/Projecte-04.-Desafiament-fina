@@ -53,7 +53,7 @@ Un cop confirmat ja estariem dins!!
 
 5.Esperem que el tènic es conecti i acceptem el seu acces.
 
-![captu](capturacliente.png)
+![captu](img/capturacliente.png)
 
 6.El tènic ja esta dins!!!
 
