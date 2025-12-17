@@ -1,4 +1,4 @@
-## T07: Accés remot. Serveis d’assistència remota (tasca en parelles) - Xavi i Pol
+## T07: Accés remot. Serveis d’assistència remota (tasca en parelles) - Joan Osuna i Daniel Martinez
 
 ## Fase 1: Anàlisi Comparativa i Selecció de la Solució
 
@@ -30,6 +30,35 @@ Després d’analitzar diferents opcions, hem decidit utilitzar **Chrome Remote 
 3. Seleccionar l’opció **"Conectarse a otro ordenador"**.
 4. Introduir el **PIN** facilitat pel client per establir la connexió.
 
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/e965dd84-daec-4fc8-90f4-c3c811f06612" />
+
+
+Esperem a que el client confirmi el nostre acces.
+Un cop confirmat ja estariem dins!!
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/2f4dbaed-b845-4999-b805-36d774d6e742" />
+
+## Guia 2: Manual per al Client
+
+1.Obrim Chrome
+2.Anem a: remotedesktop.google.com/support
+3.Feu clic "Compartir mi pantalla" *(No instal·la res)
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/38d76f62-918e-4b29-b53f-651a977b6324" />
+
+
+4.Veurem un codi, el cual necessità el tènic per conectar-se. *(No patiu, vosaltres haureu de conccedir l'acces més endevant)
+
+<img width="799" " alt="image" src="https://github.com/user-attachments/assets/773a9610-b9e9-47f6-832d-6cf2b8ce107e" />
+
+
+5.Esperem que el tènic es conecti i acceptem el seu acces.
+
+6.El tènic ja esta dins!!!
+
+7.Podeu veure en temps real que fa el tènic en pantalla i para la connexió quan volgeu.
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/d1419100-7b92-44a4-945e-917fd6461c52" />
 
 
 
