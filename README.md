@@ -58,41 +58,41 @@ Integrar, en un sol entorn professional, tots els coneixements tècnics, organit
 
 ## **Objectius generals**
 
-Integrar coneixements de seguretat, sistemes, xarxes i aplicacions web.
+-  Integrar coneixements de seguretat, sistemes, xarxes i aplicacions web.
 
-Dominar processos de còpia i recuperació del sistema.
+-  Dominar processos de còpia i recuperació del sistema.
 
-Desplegar serveis corporatius habituals en entorns empresarials.
+-  Desplegar serveis corporatius habituals en entorns empresarials.
 
-Crear prototips digitals funcionals.
+-  Crear prototips digitals funcionals.
 
-Gestionar versions amb Git.
+-  Gestionar versions amb Git.
 
-Desenvolupar una mirada sostenible en l’ús de tecnologies.
+-  Desenvolupar una mirada sostenible en l’ús de tecnologies.
 
-Planificar tasques amb metodologia Kanban.
+-  Planificar tasques amb metodologia Kanban.
 
-Millorar autonomia, comunicació i capacitat de resolució.
+-  Millorar autonomia, comunicació i capacitat de resolució.
 
-  Productes finals inclosos en aquest repositori
+-  Productes finals inclosos en aquest repositori
 
-✔️ Imatge de restauració funcional + prova documental
+-  Imatge de restauració funcional + prova documental
 
-✔️ Informe comparatiu de solucions de backup
+-  Informe comparatiu de solucions de backup
 
-✔️ Documentació i proves del servidor NFS
+-  Documentació i proves del servidor NFS
 
-✔️ Configuració i validació del servidor CUPS
+-  Configuració i validació del servidor CUPS
 
-✔️ Informe d’accés remot amb valoració de solucions
+-  Informe d’accés remot amb valoració de solucions
 
-✔️ Prototip Figma corporatiu + ecommerce (enllaç inclòs)
+-  Prototip Figma corporatiu + ecommerce (enllaç inclòs)
 
-✔️ Repositori Git organitzat amb commits coherents
+-  Repositori Git organitzat amb commits coherents
 
-✔️ Tauler Kanban actualitzat
+-  Tauler Kanban actualitzat
 
-✔️ Reflexió final sobre sostenibilitat i economia circular
+-  Reflexió final sobre sostenibilitat i economia circular
 
 Aquests elements conformen la meva carpeta professional, demostrant el progrés tècnic i personal assolit durant tota l’experiència EverPia.
 
