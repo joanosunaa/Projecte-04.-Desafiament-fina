@@ -14,43 +14,43 @@ Després de mesos convivint amb incidents, pressió, responsabilitats diverses i
 
 Integrar, en un sol entorn professional, tots els coneixements tècnics, organitzatius i creatius adquirits durant el trimestre:
 
-Treballar com un júnior IT en una consultora real.
+- Treballar com un júnior IT en una consultora real.
 
-Donar resposta a encàrrecs reals de sistemes, seguretat i serveis de xarxa.
+- Donar resposta a encàrrecs reals de sistemes, seguretat i serveis de xarxa.
 
-Documentar amb nivell professional.
+- Documentar amb nivell professional.
 
-Planificar i executar tasques amb autonomia progressiva.
+- Planificar i executar tasques amb autonomia progressiva.
 
-Crear una carpeta de treball que funcioni com a carta de presentació professional.
+- Crear una carpeta de treball que funcioni com a carta de presentació professional.
 
 ## **Continguts treballats**
 
-Aquest projecte combina:
+- Aquest projecte combina:
 
-Bloc Tècnic
+- Bloc Tècnic
 
-Creació i restauració d’imatges del sistema amb Rescuezilla.
+- Creació i restauració d’imatges del sistema amb Rescuezilla.
 
-Estratègies de còpies de seguretat per equips Windows.
+- Estratègies de còpies de seguretat per equips Windows.
 
-Desplegament d’un servidor NFS (amb i sense LDAP).
+- Desplegament d’un servidor NFS (amb i sense LDAP).
 
-Configuració d’un servidor d’impressió CUPS.
+- Configuració d’un servidor d’impressió CUPS.
 
-Implementació i comparativa de solucions d’accés remot.
+- Implementació i comparativa de solucions d’accés remot.
 
-Bloc Creatiu i Organitzatiu
+- Bloc Creatiu i Organitzatiu
 
-Disseny d’un prototip corporatiu + ecommerce inicial amb Figma.
+- Disseny d’un prototip corporatiu + ecommerce inicial amb Figma.
 
-Ús inicial de Git amb repositoris locals i commits estructurats.
+- Ús inicial de Git amb repositoris locals i commits estructurats.
 
-Documentació tècnica acurada i professional.
+- Documentació tècnica acurada i professional.
 
-Organització del flux de treball amb Kanban.
+- Organització del flux de treball amb Kanban.
 
-Integració de criteris de sostenibilitat i economia circular en l’àmbit tecnològic.
+- Integració de criteris de sostenibilitat i economia circular en l’àmbit tecnològic.
 
 
 <img width="450" height="350" alt="P4 index1" src="https://github.com/user-attachments/assets/11c93699-24cc-43f8-b123-2ddc15e854ed" />
